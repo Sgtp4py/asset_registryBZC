@@ -1,19 +1,18 @@
 {
-  "asset_id": "84602f4d1a6e6932b6812efd7a2419de1cdf13fcc3fd59ec0e99daa00560380d",
+  "asset_id": "a2dc9590ef512046fd123ff7cfeddf25fb5d2a635ce7cad8c36c5f5870f322e0",
   "contract": {
     "entity": { "domain": "cr4zy3d.com" },
     "issuer_pubkey": "03880f3f580c53f59c6bdee0abf61c245e37adfe835b5a1105a81ccf1fc14c2522",
     "name": "BizCreator Liquid Token",
     "ticker": "BZC-LQ",
-    "precision": 8,
+    "precision": 0,
     "version": 0,
     "description": "BZC-LQ est la version Liquid du jeton BizCreator (BZC). Adossé 1:1 au BZC natif, il permet les transferts rapides sur Liquid et sert de jeton de référence dans l’écosystème BizCreator.",
     "website": "https://cr4zy3d.com/BizCreator",
-    "icon": "https://cr4zy3d.com/BizCreator/logo.png",
-    "contract_hash": "5fe0bcf7de1aee84640118ade828bf34630e2382998daf84465c5cd6c2db20ae"
+    "icon": "https://cr4zy3d.com/BizCreator/logo.png"
   },
   "issuance_txin": {
-    "txid": "b852511fc980ced19c6f3e030f9f904b2cee9b929b355ebf2922ed2ab48cce9f",
+    "txid": "bc90f8b4654e68a793c530644d8e096782282264eb7fdf28af896d934701b029",
     "vin": 0
   }
 }
