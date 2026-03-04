@@ -11,6 +11,7 @@
     "website": "https://cr4zy3d.com/BizCreator",
     "icon": "https://cr4zy3d.com/BizCreator/logo.png"
   },
+  "contract_hash": "68d28a9c2170501961eebb1b3a34e2b3dab698d6265e91f85c26863048d122eb",
   "issuance_txin": {
     "txid": "bc90f8b4654e68a793c530644d8e096782282264eb7fdf28af896d934701b029",
     "vin": 0
