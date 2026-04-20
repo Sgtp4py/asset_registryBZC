@@ -9,7 +9,7 @@
     "version": 0,
     "description": "BZC-LQ est la version Liquid du jeton BizCreator (BZC). Adossé 1:1 au BZC natif, il permet les transferts rapides sur Liquid et sert de jeton de référence dans l’écosystème BizCreator.",
     "website": "https://cr4zy3d.com/BizCreator",
-    "icon": "https://cr4zy3d.com/BizCreator/logo.png"
+    "icon": "https://cr4zy3d.com/BizCreator/LogoBZC_537.png"
   },
   "contract_hash": "68d28a9c2170501961eebb1b3a34e2b3dab698d6265e91f85c26863048d122eb",
   "issuance_txin": {
