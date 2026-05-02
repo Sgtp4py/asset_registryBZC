@@ -1,15 +1,15 @@
 {
-  "asset_id": "76a5248d2d3e61b0ac08a4698226f92d6ad17c53fbc703740baa87086c09a20c",
+  "asset_id": "2bd4e900c3e8c0b201aae21b4be30f3ed695bfb6489861cc8fdb7c65db5a1953",
   "contract": {
-    "version": 0,
-    "name": "BizCreator Liquid Token",
-    "ticker": "BZC-LQ",
     "entity": { "domain": "cr4zy3d.com" },
+    "issuer_pubkey": "03880f3f580c53f59c6bdee0abf61c245e37adfe835b5a1105a81ccf1fc14c2522",
+    "name": "BizCreator Liquid Token",
     "precision": 0,
-    "icon": "https://cr4zy3d.com/BizCreator/Infos/BZC.png"
+    "ticker": "BZC-LQ",
+    "version": 0
   },
   "issuance_txin": {
-    "txid": "18e663c2c49fc450fcef0633046f58ba2cba734e612262fb873d5ec257e310b5",
+    "txid": "3bbcd3b46f19198535d49deafbbb341ee3a9b8cbd5ce3d9438241e430e92ade0",
     "vin": 0
   }
 }
